@@ -1,1 +1,5 @@
-I am currently learning how to code and i make projects for High scholl
+Hello this is me Alessandro
+
+I am making brojects at my projecthub repository
+
+Also i am very bad at programming
